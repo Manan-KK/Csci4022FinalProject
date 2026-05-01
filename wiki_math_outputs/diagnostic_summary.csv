@@ -1,0 +1,13 @@
+check,value
+Number of nodes,1068
+Number of edges,27079
+Isolated nodes,0
+Weakly connected components,1
+Strongly connected components,1068
+Chosen GMM k,5
+Mean GMM confidence,0.9167753754017907
+Pages with confidence < 0.60,50
+Mean cluster entropy,0.21839834704388253
+Best regression model,centrality_plus_svd
+Best regression R^2,0.24182826714910055
+Best regression RMSE,1.0979596302104866
